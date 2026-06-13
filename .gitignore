@@ -1,0 +1,10 @@
+# Raw data files (large)
+uploads/
+
+# Old/legacy scripts folder
+home/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
